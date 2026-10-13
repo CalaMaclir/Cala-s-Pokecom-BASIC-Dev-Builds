@@ -18,4 +18,4 @@ The future on-device web updater is a separate firmware feature. Publishing `dev
 
 Only authenticated maintainer-authorized automation or the repository owner may publish a release. New successful builds use new tags; previously published release assets are never replaced. Releases are marked as **pre-release** and do not indicate hardware acceptance.
 
-Copyright (c) 2026 Cala Maclir. Distributed under the [BSD 3-Clause License](LICENSE). Binary redistribution must preserve the license and disclaimer.
+Copyright (c) 2026 Cala Maclir. Distributed under the [BSD 3-Clause License](https://github.com/CalaMaclir/Cala-s-Pokecom-BASIC/blob/main/LICENSE). Binary redistribution must preserve the license and disclaimer.
