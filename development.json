@@ -2,17 +2,17 @@
   "schema": "cpb-update-v1",
   "channel": "development",
   "board": "pico2_w",
-  "version": "0.98",
-  "build": 1036,
-  "tag": "dev-v0.98-build1036",
+  "version": "0.99",
+  "build": 1043,
+  "tag": "dev-v0.99-build1043",
   "prerelease": true,
   "hardware_acceptance": "NOT_VERIFIED_BY_THIS_PUBLICATION",
-  "source_sha": "31a79dd819612e4e40043c08a8b3a12a0184b9df",
-  "release_url": "https://github.com/CalaMaclir/Cala-s-Pokecom-BASIC-Dev-Builds/releases/tag/dev-v0.98-build1036",
+  "source_sha": "f1931ffc8c2ce8cb80e6e1940f1c15e680dd1225",
+  "release_url": "https://github.com/CalaMaclir/Cala-s-Pokecom-BASIC-Dev-Builds/releases/tag/dev-v0.99-build1043",
   "uf2": {
-    "url": "https://github.com/CalaMaclir/Cala-s-Pokecom-BASIC-Dev-Builds/releases/download/dev-v0.98-build1036/Cala-Pokecom-BASIC-dev-v0.98-build1036-pico2w.uf2",
-    "name": "Cala-Pokecom-BASIC-dev-v0.98-build1036-pico2w.uf2",
-    "bytes": 3297792,
-    "sha256": "22be97d3c7595e6d91ab31d73af5e2464b5645785121e9ef0a8616d4c96955d4"
+    "url": "https://github.com/CalaMaclir/Cala-s-Pokecom-BASIC-Dev-Builds/releases/download/dev-v0.99-build1043/Cala-Pokecom-BASIC-dev-v0.99-build1043-pico2w.uf2",
+    "name": "Cala-Pokecom-BASIC-dev-v0.99-build1043-pico2w.uf2",
+    "bytes": 3533312,
+    "sha256": "08c818996542d1e87f1ff3ec88ac4d9a93533631f4ca72b3508e922d7ca4a3a2"
   }
 }
