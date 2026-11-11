@@ -3,26 +3,26 @@
   "channel": "development",
   "board": "pico2_w",
   "version": "0.99",
-  "build": 1104,
-  "tag": "dev-v0.99-build1104",
+  "build": 1107,
+  "tag": "dev-v0.99-build1107",
   "prerelease": true,
   "hardware_acceptance": "NOT_VERIFIED_BY_THIS_PUBLICATION",
-  "source_sha": "0e7cf5a07fbfa0a6791c904bd13b7dfc125e157c",
-  "release_url": "https://github.com/CalaMaclir/Cala-s-Pokecom-BASIC-Dev-Builds/releases/tag/dev-v0.99-build1104",
+  "source_sha": "4bc6cf198db21829490cca003cdd70405ff2f624",
+  "release_url": "https://github.com/CalaMaclir/Cala-s-Pokecom-BASIC-Dev-Builds/releases/tag/dev-v0.99-build1107",
   "uf2": {
-    "url": "https://github.com/CalaMaclir/Cala-s-Pokecom-BASIC-Dev-Builds/releases/download/dev-v0.99-build1104/Cala-Pokecom-BASIC-dev-v0.99-build1104-pico2w.uf2.enc",
-    "name": "Cala-Pokecom-BASIC-dev-v0.99-build1104-pico2w.uf2.enc",
-    "bytes": 3671040,
-    "sha256": "a5a57062efa379e55abcc3ad8c2326ce74cd8517e0aa76ec84a0c52bb4ff06c1"
+    "url": "https://github.com/CalaMaclir/Cala-s-Pokecom-BASIC-Dev-Builds/releases/download/dev-v0.99-build1107/Cala-Pokecom-BASIC-dev-v0.99-build1107-pico2w.uf2.enc",
+    "name": "Cala-Pokecom-BASIC-dev-v0.99-build1107-pico2w.uf2.enc",
+    "bytes": 3681280,
+    "sha256": "a0075461e9dc0d7d73666315fa1ae0408dd666d3ad76af62dde5a3473707bbf4"
   },
   "encryption": {
     "suite": "HPKE-X25519-HKDF-SHA256-ChaCha20Poly1305-v1",
-    "bytes": 3678224,
-    "sha256": "4699b68fda74f68bf82b7fdec272d95d95bab99d9a4eb114ea41f74819925059",
-    "nonce": "1003a812",
-    "recipients": "0de0f218b5af07192384e350b961516a45b1f6d3aa5ba2c8f753dd16bdd27c07d7df01bb87fff686528aa05c9ff7d0fd7a0663be5fe082ad5de20db3dba4be22882475f38522db90339a91188383f7ca6eda0dd139a55f15b653ca2cc324a40d4b7ce2a646e78244ca69fd63b6f49040"
+    "bytes": 3688480,
+    "sha256": "f5bfe2364a284a3019f87ba410d7217b7f4b686d2af5f8df6890c9a65016f91b",
+    "nonce": "bf456e9a",
+    "recipients": "0de0f218b5af07192384e350b961516a45b1f6d3aa5ba2c8f753dd16bdd27c07e57632063ede8c6ecd683c002cb0d29600803ca0ef476204c7466939f83be22f387142531f53d3fea17f2735e269cfaf593b8ab5ec3c966a9203d07591059a4d2af1bce6d08061d3a7739bca6f52feba"
   },
   "algorithm": "Ed25519",
   "key_id": "cpb-ed25519-2026-01",
-  "signature": "9ca23fa789fa18e065cfafbc734ada75b722cd60a012783d4764f3b453bd8c155b57c906a2f46b1d8f2569f681a58c07303c78a12f7a33ab7d0dd9ff1a8c6a06"
+  "signature": "42e5934b201df784517f9bb8aff43137a1dc9221ee77793fb39657add82ab66f14d2d2833feffd5f1c07ca341e06081bd4a3789b74ddcfba2248d54fef262407"
 }
